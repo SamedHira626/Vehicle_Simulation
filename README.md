@@ -4,7 +4,7 @@
 
 
 
-**SIMULATION VIDEO WITH OUR MODEL (YOLOv4-tiny and lane tracking system) IN UNITY 3D (CLICK THE LINK BELOW TO WATCH)**
+**SIMULATION VIDEO WITH OUR MODEL (YOLOv4-tiny and lane tracking system) IN UNITY 3D (CLICK THE LINK BELOW TO WATCH.)**
 
 https://www.youtube.com/watch?v=FTLTN_zP0Js
 
